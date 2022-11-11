@@ -1,0 +1,92 @@
+@font-face {
+  font-family: 'DotumChe';
+  src: url(../fonts/DotumChe.ttf);
+  unicode-range: U+000-5FF; /* Latin glyphs */
+}
+header {
+    display: -ms-grid; /* IE 10 */
+    display: grid; /* None yet */
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding-bottom: 24px;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+html {
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+body {
+  font-size: 1rem;
+  line-height: 1.3;
+  font-family: 'DotumChe';
+  letter-spacing: 0.066rem;
+  margin: 0;
+  padding: 1.3rem;
+  background: #f1f0ea;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+ .topic {
+  overflow: visible;
+  height: 42px;
+  max-height: 42px;
+}
+
+.w-layout-grid {
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: auto auto;
+  grid-row-gap: 16px;
+  grid-column-gap: 16px;
+  padding-top: 1rem;
+}
+
+
+
+img {
+  width: 100%;
+  display: block;
+}
+
+.title {
+  color: grey;
+}
+
+.grid-text {
+  grid-column-start: auto;
+}
+
+.container {
+
+}
+
+figcaption {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  
+}
+
+ul {
+    width: 100%;
+    height: 100%;
+    list-style: none;
+}
+
+li {
+    display: none;
+    width: 100%;
+    height: 100%;
+}

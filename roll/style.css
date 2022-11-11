@@ -1,8 +1,3 @@
-@font-face {
-  font-family: 'DotumChe';
-  src: url(../fonts/DotumChe.ttf);
-  unicode-range: U+000-5FF; /* Latin glyphs */
-}
 :root {
     --white: #ffffff;
     --black: #000000;
