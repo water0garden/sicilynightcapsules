@@ -85,6 +85,13 @@ li {
     height: 100%;
 }
 
+.translation {
+  display: none;
+}
+
+button {
+  font-family:  'DotumChe';
+}
 
 .accordion-item-content {
   display: block;
@@ -110,4 +117,65 @@ li {
  .right-arrow {
    position: absolute;
    margin-right: 0px;
+ }
+
+
+ .imageSlides {
+   display: none
+ }
+
+ img {
+   margin: auto;
+   display: block;
+   width: 100%;
+ }
+
+ /* Our main images-slideshow container */
+ .images-slideshow {
+   max-width: 612px;
+   position: relative;
+   margin: auto;
+   padding-bottom: 40px;
+ }
+
+ /*Style for ">" next and "<" previous buttons */
+ .slider-btn{
+   cursor: pointer;
+   position: absolute;
+   top: 50%;
+   width: auto;
+   padding: 8px 16px;
+   margin-top: -22px;
+   user-select: none;
+ }
+
+ /* setting the position of the previous button towards left */
+ .previous {
+   left: 2%;
+   left: auto;
+   top: 0%;
+   right: auto;
+   bottom: 0%;
+   min-width: 50%;
+   cursor: w-resize;
+
+ }
+  /* setting the position of the next button towards right */
+ .next {
+   right: 2%;
+   position: absolute;
+   left: auto;
+   top: 0%;
+   right: 0%;
+   bottom: 0%;
+   display: block;
+   min-width: 50%;
+   margin-right: 0px;
+   cursor: e-resize;
+ }
+
+ /* On hover, adding a background color */
+ .previous:hover,
+ .next:hover {
+
  }
