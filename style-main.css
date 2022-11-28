@@ -107,6 +107,12 @@ li {
    padding-bottom: 40px;
  }
 
+ @media (max-width: 800px) {
+   .images-slideshow {
+   margin-top: 4rem;
+   }
+ }
+
  /*Style for ">" next and "<" previous buttons */
  .btn {
    cursor: pointer;
