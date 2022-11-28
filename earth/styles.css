@@ -260,6 +260,7 @@ Menu
 .item-info h4 {
   margin-bottom: 0.5rem;
   margin-top: 0.5rem;
+  line-height: normal;
 }
 .time {
   /* color: var(--clr-gold); */

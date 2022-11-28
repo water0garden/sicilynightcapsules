@@ -17,7 +17,7 @@ const earth = [
   },
 {
     id: 3,
-    title: "“Catch my drift inn Central Park”",
+    title: "Catch my drift inn Central Park",
     place: "NYC",
     time: "4.30pm",
     img: "./images/item-3.jpeg",
@@ -33,7 +33,7 @@ const earth = [
   },
 {
     id: 5,
-    title: "“Peaced and not a hippy”",
+    title: "Peaced and not a hippy",
     place: "Italy",
     time: "6.30pm",
     img: "./images/item-5.jpeg",
@@ -41,7 +41,7 @@ const earth = [
   },
 {
     id: 6,
-    title: "“The main course listening to nonas”",
+    title: "The main course listening to nonas",
     place: "Italy",
     time: "12.20pm",
     img: "./images/item-6.jpeg",
@@ -49,7 +49,7 @@ const earth = [
   },
 {
     id: 7,
-    title: "“History lesson with stoner guide”",
+    title: "History lesson with stoner guide",
     place: "Italy",
     time: "11.14pm",
     img: "./images/item-7.jpeg",
@@ -65,7 +65,7 @@ const earth = [
   },
 {
     id: 9,
-    title: "“Girl is inn a movie”",
+    title: "Girl is inn a movie",
     place: "Puglia",
     time: "3.23pm",
     img: "./images/item-9.jpeg",
@@ -73,7 +73,7 @@ const earth = [
   },
 {
     id: 10,
-    title: "“A painting”",
+    title: "A painting",
     place: "Sicily",
     time: "7.23am",
     img: "./images/item-10.jpeg",
@@ -81,7 +81,7 @@ const earth = [
   },
 {
     id: 11,
-    title: "“Empty but full ovf warm water”",
+    title: "Empty but full ovf warm water",
     place: "Sicily",
     time: "3.23pm",
     img: "./images/item-11.jpeg",
@@ -89,7 +89,7 @@ const earth = [
   },
 {
     id: 12,
-    title: "“View”",
+    title: "View",
     place: "Sicily",
     time: "6.23am",
     img: "./images/item-12.jpeg",
@@ -97,7 +97,7 @@ const earth = [
   },
 {
     id: 13,
-    title: "“View”",
+    title: "View",
     place: "Paris",
     time: "3.13pm",
     img: "./images/item-13.jpeg",
@@ -105,7 +105,7 @@ const earth = [
   },
 {
     id: 14,
-    title: "“Traditional baguette”",
+    title: "Traditional baguette",
     place: "Paris",
     time: "2.23pm",
     img: "./images/item-14.jpeg",
@@ -113,7 +113,7 @@ const earth = [
   },
 {
     id: 15,
-    title: "“Muse”",
+    title: "Muse",
     place: "Paris",
     time: "1.03pm",
     img: "./images/item-15.jpeg",
@@ -121,7 +121,7 @@ const earth = [
   },
 {
     id: 16,
-    title: "“Stationary”",
+    title: "Stationary",
     place: "Paris",
     time: "6.13pm",
     img: "./images/item-16.jpeg",
@@ -129,15 +129,15 @@ const earth = [
   },
 {
     id: 17,
-    title: "“chantal akerman place”",
+    title: "Chantal Akermans place",
     place: "Paris",
     time: "5.19pm",
     img: "./images/item-17.jpeg",
-    desc: `After a swim.`,
+    desc: `Came here after a swim, it was simple, pureless and her home. I knew this area so well, Belleville main drag. Been on this avenue, 2017, 2019, 2022.`,
   },
 {
     id: 18,
-    title: "“Charge”",
+    title: "Charge",
     place: "Paris",
     time: "11.51am",
     img: "./images/item-18.jpeg",
@@ -153,7 +153,7 @@ const earth = [
   },
 {
     id: 20,
-    title: "“Ricard”",
+    title: "Ricard",
     place: "Paris",
     time: "12.13am",
     img: "./images/item-20.jpeg",
