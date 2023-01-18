@@ -16,7 +16,7 @@ header {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400;
+  font-size: 1rem;
 }
 
 html {
@@ -53,7 +53,9 @@ body {
   padding-top: 1rem;
 }
 
-
+p {
+  display: block;
+}
 
 img {
   width: 100%;
@@ -66,11 +68,11 @@ img {
 
 .grid-text {
   grid-column-start: auto;
+  display: block;
+  position: relative;
+
 }
 
-.container {
-
-}
 
 
 ul {
@@ -89,8 +91,18 @@ li {
   display: none;
 }
 
+.hide-translation {
+display: none;
+}
+
+.btn-hide {
+  display: block;
+}
+
+
+
 button {
-  font-family:  'DotumChe';
+  font-family: 'DotumChe';
 }
 
 .accordion-item-content {

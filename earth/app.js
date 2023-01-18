@@ -149,7 +149,7 @@ const earth = [
     place: "Paris",
     time: "2.23pm",
     img: "./images/item-19.jpeg",
-    desc: `It was.`,
+    desc: `I felt my best when I was dressed and the lady look me over and said "You know what you're doing."`,
   },
 {
     id: 20,
@@ -157,15 +157,15 @@ const earth = [
     place: "Paris",
     time: "12.13am",
     img: "./images/item-20.jpeg",
-    desc: `Pastisse`,
+    desc: `Crawl home drinks from the Seine to the coeur. `,
   },
 {
     id: 21,
-    title: "“Oldest”",
+    title: "Oldest",
     place: "Paris",
     time: "10.23pm",
     img: "./images/item-21.jpeg",
-    desc: `here`,
+    desc: `The oldest planned square in paris, Henry vibes 1602, know the place? Place des Vosges.`,
   },
 {
     id: 22,
@@ -193,7 +193,7 @@ const earth = [
   },
 {
     id: 25,
-    title: "“Self portrait”",
+    title: "Self portrait",
     place: "Paris",
     time: "2.45pm",
     img: "./images/item-25.jpeg",
@@ -249,11 +249,11 @@ const earth = [
   },
 {
     id: 32,
-    title: "“special”",
+    title: "Special",
     place: "Greece",
     time: "6.23am",
     img: "./images/item-32.jpeg",
-    desc: `…`,
+    desc: `So i didnt know that that joan didion and her partner wrote `,
   },
 ];
 
